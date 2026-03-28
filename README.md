@@ -56,7 +56,7 @@ The final dataset is stored in src/data/
 
 
 4. Feature Engineering
-5. 
+
 Key engineered features include:
 - Tyre age (laps since last pit)
 - Compound type (C1–C5, inters, wets)
