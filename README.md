@@ -163,6 +163,12 @@ f1-pitstop-prediction/
 - Formula 1 for providing open telemetry
 - GRU architecture inspired by sequence modelling research
 
+14. Additional Resources
+    
+- Viva / Project Presentation Video: [Watch here](https://drive.google.com/file/d/10cEDozpAgaqw3sKNNalGHGYd0DK3gch3/view?usp=drive_link)
+
+
+
 
 
 
